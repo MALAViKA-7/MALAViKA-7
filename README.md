@@ -1,2 +1,48 @@
-Malavika Sreejith | Electrical & Computer Engineering Student<img src="banner_github.png" alt="GitHub Banner" width="100%" />About Me
-Hi there! I'm Malavika Sreejith, a final-year Electrical and Computer Engineering student at Amrita Vishwa Vidyapeetham, Amritapuri. I am a diligent and adaptive developer passionate about the intersection of hardware and software, specifically in Embedded Systems, IoT, and AI.I’m currently focusing on: Edge computing and real-time navigation systems for accessibility.I’m looking to collaborate on: Robotics, Sustainable Energy, and AI-driven social impact projects.Feel Free To Ask About: Arduino, Python-based automation, or integrating Google Cloud APIs into hardware.Fun Fact: Beyond the lab, I'm an avid photographer and traveler who's fluent in four languages.Latest ProjectsAI-Based Personal Assistant for Visually Impaired: A smart wearable using TensorFlow, OpenCV, and Raspberry Pi to provide real-time obstacle detection and audio-guided navigation.AURA (Automated RFID User Recognition and Access): A secure lab access and attendance system leveraging Google OAuth2 and Cloud Storage for real-time tracking.IoT-Enabled Smart Irrigation: An automated system using ESP32 and Arduino Cloud for soil moisture monitoring, which I presented at the ETIS 2025 conference.Line Chaser Bot: An autonomous navigation robot developed during my time with the Robotics Club.Socials<div align="left"><a href="https://linkedin.com/in/ma7avika-sreejith" target="_blank"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" alt="linkedin logo" /></a><a href="mailto:malavikasreejith123@gmail.com" target="_blank"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" alt="gmail logo" /></a></div>Always exploring, learning, and building for a better society! Tech Stack<picture><source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" /><source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /><img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" /></picture>
+<div align="center">
+  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+
+  # Malavika Sreejith
+  **Electrical & Computer Engineering Student**  
+  Amrita Vishwa Vidyapeetham, Amritapuri
+
+  [![LinkedIn](https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge)](https://linkedin.com/in/ma7avika-sreejith)
+  [![Gmail](https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge)](mailto:malavikasreejith123@gmail.com)
+</div>
+
+---
+
+## 👩‍💻 About Me
+
+Hi there! I'm a final-year ECE student passionate about the intersection of hardware and software — specifically **Embedded Systems**, **IoT**, and **AI**.
+
+- 🔭 Currently focused on: Edge computing and real-time navigation systems for accessibility
+- 🤝 Looking to collaborate on: Robotics, Sustainable Energy, and AI-driven social impact projects
+- 💬 Ask me about: Arduino, Python-based automation, or integrating Google Cloud APIs into hardware
+- 📸 Fun fact: Avid photographer, traveler, and fluent in four languages
+
+---
+
+## 🚀 Latest Projects
+
+| Project | Description | Tech |
+|---|---|---|
+| **AI Personal Assistant for Visually Impaired** | Smart wearable for real-time obstacle detection & audio-guided navigation | TensorFlow, OpenCV, Raspberry Pi |
+| **AURA** | Automated RFID-based lab access & attendance system with real-time tracking | Google OAuth2, Cloud Storage |
+| **IoT Smart Irrigation** | Automated soil moisture monitoring system — presented at ETIS 2025 | ESP32, Arduino Cloud |
+| **Line Chaser Bot** | Autonomous navigation robot built with the Robotics Club | Arduino, Embedded C |
+
+---
+
+## 🐍 Contribution Graph
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/tobiasmeyhoefer/tobiasmeyhoefer/output/github-snake.svg" />
+</picture>
+
+---
+
+<div align="center">
+  <i>Always exploring, learning, and building for a better society! 🌍</i>
+</div>
