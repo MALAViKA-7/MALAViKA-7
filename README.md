@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="banner_github.png" alt="GitHub Banner" width="100%" />
+  <img src="https://readme-img.onrender.com/api/banner?username=MA7AVIKA&template=creative2&bg=dark&font=modern" alt="MA7AVIKA's GitHub Stats" />
 
   # Malavika Sreejith
   **Electrical & Computer Engineering Student**  
